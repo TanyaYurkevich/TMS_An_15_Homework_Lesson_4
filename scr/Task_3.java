@@ -21,7 +21,7 @@ public class Task_3 {
         } if (avg<avg1) {
             System.out.println("среднее арифметическое второго массива больше первого");}
         if (avg==avg1){
-            System.out.println("среднее арифметическое двух массивов равны");
+            System.out.println("средние арифметические двух массивов равны");
         }
 
 
